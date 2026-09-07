@@ -1,0 +1,8 @@
+1. python 3.7.9 via pyver
+2. venv -m venv venv
+3. venv\Scripts\activate
+4. python -m pip install --upgrade pip
+5. pip install torch==1.7.0 -f https://download.pytorch.org/whl/torch_stable.html
+6. pip install mlagents
+7. mlagents --help (to test)
+8. mlagents package in unity package editor

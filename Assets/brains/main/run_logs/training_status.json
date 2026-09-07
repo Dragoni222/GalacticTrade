@@ -1,0 +1,65 @@
+{
+    "Starship": {
+        "checkpoints": [
+            {
+                "steps": 110499940,
+                "file_path": "results\\main\\Starship\\Starship-110499940.onnx",
+                "reward": 152.30854244232177,
+                "creation_time": 1787330940.4609635,
+                "auxillary_file_paths": [
+                    "results\\main\\Starship\\Starship-110499940.pt"
+                ]
+            },
+            {
+                "steps": 110999979,
+                "file_path": "results\\main\\Starship\\Starship-110999979.onnx",
+                "reward": 88.85485063280377,
+                "creation_time": 1787331117.5108542,
+                "auxillary_file_paths": [
+                    "results\\main\\Starship\\Starship-110999979.pt"
+                ]
+            },
+            {
+                "steps": 111499960,
+                "file_path": "results\\main\\Starship\\Starship-111499960.onnx",
+                "reward": 116.26755201816559,
+                "creation_time": 1787331295.831812,
+                "auxillary_file_paths": [
+                    "results\\main\\Starship\\Starship-111499960.pt"
+                ]
+            },
+            {
+                "steps": 111999964,
+                "file_path": "results\\main\\Starship\\Starship-111999964.onnx",
+                "reward": -146.0946263218748,
+                "creation_time": 1787331474.8705263,
+                "auxillary_file_paths": [
+                    "results\\main\\Starship\\Starship-111999964.pt"
+                ]
+            },
+            {
+                "steps": 112218696,
+                "file_path": "results\\main\\Starship\\Starship-112218696.onnx",
+                "reward": null,
+                "creation_time": 1787331554.5357096,
+                "auxillary_file_paths": [
+                    "results\\main\\Starship\\Starship-112218696.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 112218696,
+            "file_path": "results\\main\\Starship.onnx",
+            "reward": null,
+            "creation_time": 1787331554.5357096,
+            "auxillary_file_paths": [
+                "results\\main\\Starship\\Starship-112218696.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}
